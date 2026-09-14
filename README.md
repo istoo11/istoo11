@@ -6,8 +6,8 @@ Soy un apasionado del desarrollo de software en constante aprendizaje, al que le
 
 ### 🚀 Sobre mí
 * 🎓 **En qué ando:** Actualmente cursando el Máster de IA & Big Data en [Tajamar](https://www.tajamar.es).
-* 🎯 **Meta actual:** [Tu objetivo principal este año, ej: Contribuir a proyectos Open Source / Encontrar mi primera oportunidad profesional.]
-* ⚡ **Fuera del teclado:** [Tus hobbies, ej: Me gusta leer novela gráfica, jugar al ajedrez, tocar la guitarra o salir a correr.]
+* 🎯 **Meta actual:** Formarme en el mundo tan cambiarte, tanto de la IA como el Big Data.
+* ⚡ **Fuera del teclado:** En mi tiempo libre me gusta pasar tiempo con mis amigos, jugar videojuegos y hacer deporte.
 
 ---
 
@@ -24,17 +24,16 @@ Soy un apasionado del desarrollo de software en constante aprendizaje, al que le
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=istoo11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istoo11&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ### 📫 ¿Cómo conectar conmigo?
 
-* 💼 **LinkedIn:** [Tu enlace a LinkedIn]
-* 🐦 **Twitter / X:** [Tu enlace si tienes]
+* 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/samuel-roman-carrasco-656a29238/)
 * ✉️ **Email:** Romansami40@gmail.com
