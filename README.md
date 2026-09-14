@@ -21,18 +21,6 @@ Soy un apasionado del desarrollo de software en constante aprendizaje, al que le
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istoo11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istoo11&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 ¿Cómo conectar conmigo?
 
 * 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/samuel-roman-carrasco-656a29238/)
