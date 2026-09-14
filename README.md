@@ -21,6 +21,13 @@ Soy un apasionado del desarrollo de software en constante aprendizaje, al que le
 
 ---
 
+### 🎓 Formación
+
+* Desarollo de Aplicaciones Multiplataforma
+* Bachillerato Científico-Tecnológico
+
+---
+
 ### 📫 ¿Cómo conectar conmigo?
 
 * 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/samuel-roman-carrasco-656a29238/)
